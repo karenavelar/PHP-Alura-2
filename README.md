@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Projeto criado a partir do curso de Orientação a objetos do Alura, usando Autoload, Namespace, Método, Classes abstratas e Polimorfismo.
+Projeto criado a partir do curso de Orientação a objetos do Alura, usando autoload, namespace, método, classes abstratas e polimorfismo.
 
 ## Autora do projeto:
 
